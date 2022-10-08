@@ -1,0 +1,61 @@
+#bg{
+    background: linear-gradient(217.41deg, #38A1F7 6.15%, #02298A 80.33%, #021B79 93.64%);
+    margin-top: 0.9%;
+    padding-bottom: 26%;
+}
+
+#T{
+  margin-top: 34%;
+  margin-left:32%;
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+ /* line-height: 98px;*/
+}
+#Tsub{
+    font-family: 'Proxima Nova';
+    font-style:normal;
+margin-left: 33%;
+margin-bottom: 4%;
+font-weight: 400;
+font-size: 20px;
+
+}
+#p{
+   position: absolute;
+    left: 16.7%;
+    top: 32.5%;
+
+}
+#Ht{
+    margin-top: 38%;
+    margin-left: 17%;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+}
+p{
+    margin-left: 17%;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+#F1{
+    margin-left: 17%;
+}
+#Bs{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(269.82deg, #38A1F7 0.1%, #38568F 99.85%);
+    border-radius: 5px;
+    margin-left: 17%;
+    text-align: center;
+}
+#FP{
+    font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+color: #38568F;
+margin-left: 40%;
+
+}
